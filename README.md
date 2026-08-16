@@ -1,7 +1,6 @@
 ## 𝙷𝚊𝚒! :𝙳
-ɪᴍ ᴀᴄᴇᴀᴛᴛᴜɴᴇ ᴏʀ ᴀᴄᴇ, ɪɴ ꜱʜᴏʀᴛ
+**ɪᴍ ᴀᴄᴇᴀᴛᴛᴜɴᴇ ᴏʀ ᴀᴄᴇ, ɪɴ ꜱʜᴏʀᴛ**
 
-**AceAttune/AceAttune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
