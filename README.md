@@ -1,4 +1,4 @@
-## Hello! :D $\color{#1f09fa}{\textsf{text}}$
+## Hello!
 
 <!--
 **AceAttune/AceAttune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
