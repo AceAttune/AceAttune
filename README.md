@@ -18,3 +18,7 @@
 <p align="center">
 <img width="498" height="361" alt="fluxarata-heart-locket" src="https://github.com/user-attachments/assets/e6a7c4ec-82f4-4bed-a719-769b7cc79230" />
 </p>
+
+<p align="center">
+𝐌𝐨𝐫𝐞 𝐢𝐧 𝐦𝐲 𝐬𝐭𝐫𝐚𝐰𝐩𝐚𝐠𝐞, 𝐭𝐡𝐚𝐭 𝐲𝐨𝐮 𝐬𝐡𝐨𝐮𝐥𝐝 𝐭𝐨𝐭𝐚𝐥𝐥𝐲 𝐜𝐡𝐞𝐜𝐤 𝐨𝐮𝐭 (ó﹏ò｡)
+</p>
